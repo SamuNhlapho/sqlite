@@ -1,0 +1,10 @@
+ INSERT INTO greetings (language,greeting) VALUES ('Hindi', 'Namaste');
+ INSERT INTO greetings (language,greeting) VALUES ('IsiNdebele', 'Lotjhani');
+ INSERT INTO greetings (language,greeting) VALUES ('IsiZulu', 'Sawubona');
+ INSERT INTO greetings (language,greeting) VALUES ('IsiXhosa', 'Molo');
+ INSERT INTO greetings (language,greeting) VALUES ('SeSotho', 'Dumela');
+ INSERT INTO greetings (language,greeting) VALUES ('Sepedi', 'Thobela');
+ INSERT INTO greetings (language,greeting) VALUES ('TshiVenda', 'Ndaa');
+ INSERT INTO greetings (language,greeting) VALUES ('French', 'Bonjour');
+ INSERT INTO greetings (language,greeting) VALUES ('Hebrew', 'Shalom');
+ INSERT INTO greetings (language,greeting) VALUES ('English', 'Hello');
